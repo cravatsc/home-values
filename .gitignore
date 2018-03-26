@@ -102,3 +102,6 @@ ENV/
 
 .idea
 *.config
+
+#aws
+accessKeys.csv
